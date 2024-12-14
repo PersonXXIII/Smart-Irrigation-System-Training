@@ -9,6 +9,8 @@ The program is used to train model for prediction of Soil Status.<br>
 **LIBRARIES**
 > Scikit-learn.<br>
 > Pandas.<br>
+> Matplotlib.<br>
+> Seaborn.<br>
 > Joblib.<br>
 #
 **MODEL**
